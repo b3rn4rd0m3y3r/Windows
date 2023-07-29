@@ -1,0 +1,1 @@
+<h1>Meu IP na rede <% =Request.ServerVariables("REMOTE_ADDR")%></h1>
